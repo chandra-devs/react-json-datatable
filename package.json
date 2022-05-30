@@ -1,6 +1,6 @@
 {
   "name": "react-json-datatable",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "./dist/index.js",
   "scripts": {
@@ -45,7 +45,7 @@
     "axios": "^0.27.2",
     "lodash": "^4.17.21",
     "moment": "^2.29.3",
-    "react" : "^16.0.0",
+    "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-transition-group": "^4.4.2"
   }
