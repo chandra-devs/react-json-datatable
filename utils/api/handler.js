@@ -1,10 +1,9 @@
 // import dotenv
 require('dotenv').config();
 // use API_BASE_URL from .env
-const API_BASE_URL = process.env.API_BASE_URL || "http://192.168.29.155:8080/smartmrapi/api";
+const API_BASE_URL = process.env.API_BASE_URL
 // import axios
 const axios = require('axios');
-const { data } = require('jquery');
 
 // {
 //     id: 1,

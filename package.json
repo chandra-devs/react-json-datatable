@@ -1,0 +1,37 @@
+{
+  "name": "react-json-datatable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandra-devs/react-json-datatable.git"
+  },
+  "keywords": [
+    "reactjs",
+    "datatable",
+    "json",
+    "json",
+    "datatable"
+  ],
+  "author": "Chandra Kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandra-devs/react-json-datatable/issues"
+  },
+  "homepage": "https://github.com/chandra-devs/react-json-datatable#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/material": "^5.8.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "lodash": "^4.17.21",
+    "react": "^18.1.0",
+    "reactstrap": "^9.0.3"
+  }
+}
