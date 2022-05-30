@@ -1,6 +1,5 @@
 {
   "presets": [
-    ["react"], ["env"], ["flow"], ["@babel/preset-react"], ["@babel/preset-env"]
-  ],
-  "plugins": ["transform-object-rest-spread","syntax-dynamic-import","@babel/plugin-transform-react-jsx"]
+    ["@babel/preset-react"], ["@babel/preset-env"]
+  ]
 }

@@ -1,5 +1,3 @@
-// import dotenv
-require('dotenv').config();
 // use API_BASE_URL from .env
 const API_BASE_URL = process.env.API_BASE_URL
 // import axios
